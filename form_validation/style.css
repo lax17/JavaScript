@@ -70,5 +70,6 @@ modify default of margin and padding */
     background: #ffffff;
     text-align: center;
     font-size: 14px;
+    color: rgb(252, 1, 1);
     transition: all 0.9s ease-in-out;
 }
